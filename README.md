@@ -1,4 +1,4 @@
-** An individual Reasearch Project **
+** An individual Reasearch Project ** \
 Jan. 2023 - Apr. 2024
 
 Scientific computation is about how to code efficiently, including the ways of storing data, extracting features, searching through all kinds of data structures.
