@@ -9,3 +9,5 @@ Project1: Binary Search and Rabin-Karp Algorithm in Data Analysis \
 Project2: Data Structure Optimization and Graph Analysis \
 Project3: 3D Data Compression and Chaotic System Analysis \
 (Note: Small errors may exist)
+
+The codes and report are private. For access please email: zxy2394028190@outlook.com
